@@ -19,7 +19,7 @@
 
 <script setup lang="ts">
 
-import { statistics } from "../statistics";
+import { data as statistics } from "../statistics.data";
 
 </script>
 
